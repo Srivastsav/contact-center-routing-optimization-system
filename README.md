@@ -45,3 +45,10 @@ Input → Routing Logic → Queue Assignment → Agent Handling → Outcome Trac
 - Queue management systems
 - SLA-based optimization
 - System testing and validation
+
+
+
+## Project Structure
+
+- /docs → Routing logic, architecture, and impact analysis
+- /diagrams → System flow representation
